@@ -1,0 +1,26 @@
+{
+  "name": "semantic-release-test-adding-to-existing-project",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stickeepaul/semantic-release-test-adding-to-existing-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stickeepaul/semantic-release-test-adding-to-existing-project/issues"
+  },
+  "homepage": "https://github.com/stickeepaul/semantic-release-test-adding-to-existing-project#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^19.0.3"
+  }
+}
