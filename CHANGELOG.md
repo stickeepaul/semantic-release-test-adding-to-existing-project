@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/stickeepaul/semantic-release-test-adding-to-existing-project/compare/v1.2.0...v1.3.0) (2022-07-15)
+
+
+### Features
+
+* third file ([e8f755a](https://github.com/stickeepaul/semantic-release-test-adding-to-existing-project/commit/e8f755a657a5aec9628e846845e82b873ec8aa6f))
+
 # [1.2.0](https://github.com/stickeepaul/semantic-release-test-adding-to-existing-project/compare/v1.1.1...v1.2.0) (2022-07-15)
 
 
