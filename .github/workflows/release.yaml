@@ -22,4 +22,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT }}
           GIT_COMMITTER_NAME: "Paul Tibbetts"
           GIT_COMMITTER_EMAIL: "paul.tibbetts@stickee.co.uk"
-        run: npx semantic-release
