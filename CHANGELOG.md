@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/stickeepaul/semantic-release-test-adding-to-existing-project/compare/v1.3.0...v1.4.0) (2022-07-15)
+
+
+### Features
+
+* fifth file ([1165e3d](https://github.com/stickeepaul/semantic-release-test-adding-to-existing-project/commit/1165e3db48daf9dccc7e193c4e231f872068aa46))
+* fourth file ([c34bf67](https://github.com/stickeepaul/semantic-release-test-adding-to-existing-project/commit/c34bf67e0a6e272dd040c16ed1cbdb616c57112b))
+
 # [1.3.0](https://github.com/stickeepaul/semantic-release-test-adding-to-existing-project/compare/v1.2.0...v1.3.0) (2022-07-15)
 
 
