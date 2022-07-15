@@ -16,4 +16,6 @@ jobs:
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_COMMITTER_NAME: "Paul Tibbetts"
+          GIT_COMMITTER_EMAIL: "paul.tibbetts@stickee.co.uk"
         run: npx semantic-release
